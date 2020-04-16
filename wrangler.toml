@@ -1,0 +1,6 @@
+name = "cf-project"
+type = "javascript"
+account_id = "c93d5cc8991c95eb9e3799274d9d6352"
+workers_dev = true
+route = ""
+zone_id = ""
